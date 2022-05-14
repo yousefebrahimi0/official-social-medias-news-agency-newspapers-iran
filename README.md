@@ -1,7 +1,7 @@
 <div dir="rtl">
 
 <h1 align="center">
-  <img src="https://github.com/yousefebrahimi0/official-social-medias-of-all-iranian-banks/blob/main/social-logos/header.png" alt="header">
+  <img src="https://github.com/yousefebrahimi0/official-social-medias-news-agency-newspapers-iran/blob/main/medias-in-iran.png" alt="header">
 </h1>
 
 # لیست شبکه های اجتماعی رسمی خبرگزاری ها و روزنامه های دارای مجوز در ایران
@@ -29,6 +29,22 @@
 
 ## شبکه‌های اجتماعی خبرگزاری‌ها و روزنامه‌های رسمی ایران
   الف ب
+  <br>
+  برخی از نمودارها از وضعیت رسانه‌های کشور
+ <div align="center">
+    نمودار مجوزها بر اساس نوع مجوز
+    <br>
+  <img src="https://github.com/yousefebrahimi0/official-social-medias-news-agency-newspapers-iran/blob/main/chart1.png" height="300">
+    <br>
+    نمودار مجوزهای چاپی
+    <br>
+  <img src="https://github.com/yousefebrahimi0/official-social-medias-news-agency-newspapers-iran/blob/main/chart2.png" height="300">
+    <br>
+   نمودار گستره توزیع رسانه‌های چاپی
+    <br>
+  <img src="https://github.com/yousefebrahimi0/official-social-medias-news-agency-newspapers-iran/blob/main/chart3.png" height="300">
+    <br>
+ </div>
 
 
 
