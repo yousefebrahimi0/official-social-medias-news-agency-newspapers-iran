@@ -5,8 +5,9 @@
 </h1>
 
 # لیست شبکه های اجتماعی رسمی خبرگزاری ها و روزنامه های دارای مجوز در ایران
+### آپدیت 1402/11/28
 
-این لیستی کامل از شبکه‌های اجتماعی رسمی شامل اینستاگرام، تلگرام و توییتر خبرگزاری‌ها و روزنامه‌های دارای مجوز در ایران است. لیست روزنامه‌های چاپی بر اساس مجوز بیش از 25 سال و با توزیع سراسری در ایران و تنها در زبان فارسی [منبع](#منبع) که دارای سایت و شبکه‌های اجتماعی هم باشند، تنظیم شده‌اند. تعداد کل روزنامه‌های چاپی در کشور 333 تاست که با فیلتر گفته شده این تعداد در لیست پایین به 3 تا رسیده است. همچنین تعداد خبرگزاری‌های مجوزدار در ایران 30 تاست که در لیست پایین فقط 5 مورد شرایط لازم را داشتند و گنجانده شده‌اند. مرجع اصلی داده‌ها نیز سامانه جامع رسانه‌های کشور به آدرس e-rasaneh.ir (1401/11/29) است. شبکه‌های اجتماعی لیست شده همگی دارای تیک آبی بوده و به معنای رسمی و مورد تایید بودن آن شبکه هستند. اگر شبکه‌ی اجتماعی خالی است یعنی تیک آبی ندارد هرچند ممکن است تنها صفحه‌ی آن رسانه در آن شبکه‌ی اجتماعی باشد. پس شرط لیست تکمیل شده زیر داشتن تیک آبی برای آن رسانه در شبکه‌ی اجتماعی مربوطه است.
+این لیستی کامل از شبکه‌های اجتماعی رسمی شامل اینستاگرام، تلگرام و توییتر خبرگزاری‌ها و روزنامه‌های دارای مجوز در ایران است. لیست روزنامه‌های چاپی بر اساس مجوز بیش از 25 سال و با توزیع سراسری در ایران و تنها در زبان فارسی [منبع](#منبع) که دارای سایت و شبکه‌های اجتماعی هم باشند، تنظیم شده‌اند. تعداد کل روزنامه‌های چاپی در کشور 333 تاست که با فیلتر گفته شده این تعداد در لیست پایین به 3 تا رسیده است. همچنین تعداد خبرگزاری‌های مجوزدار در ایران 30 تاست که در لیست پایین فقط 5 مورد شرایط لازم را داشتند و گنجانده شده‌اند. مرجع اصلی داده‌ها نیز سامانه جامع رسانه‌های کشور به آدرس e-rasaneh.ir (1402/11/28) است. شبکه‌های اجتماعی لیست شده همگی دارای تیک آبی بوده و به معنای رسمی و مورد تایید بودن آن شبکه هستند. اگر شبکه‌ی اجتماعی خالی است یعنی تیک آبی ندارد هرچند ممکن است تنها صفحه‌ی آن رسانه در آن شبکه‌ی اجتماعی باشد. پس شرط لیست تکمیل شده زیر داشتن تیک آبی برای آن رسانه در شبکه‌ی اجتماعی مربوطه است.
 
 ### فهرست دسته بندی ها:
 - [راهنمایی](#راهنمایی)
@@ -33,28 +34,25 @@
  <div align="center">
     نمودار مجوزها بر اساس نوع مجوز
     <br>
-  <img src="https://github.com/yousefebrahimi0/official-social-medias-news-agency-newspapers-iran/blob/main/chart1.jpg" height="300">
+  <img src="https://github.com/yousefebrahimi0/official-social-medias-news-agency-newspapers-iran/blob/main/chart4.jpg" height="300">
     <br>
     نمودار مجوزهای چاپی
     <br>
-  <img src="https://github.com/yousefebrahimi0/official-social-medias-news-agency-newspapers-iran/blob/main/chart2.jpg" height="300">
+  <img src="https://github.com/yousefebrahimi0/official-social-medias-news-agency-newspapers-iran/blob/main/chart5.jpg" height="300">
     <br>
    نمودار گستره توزیع رسانه‌های چاپی
     <br>
-  <img src="https://github.com/yousefebrahimi0/official-social-medias-news-agency-newspapers-iran/blob/main/chart3.jpg" height="300">
+  <img src="https://github.com/yousefebrahimi0/official-social-medias-news-agency-newspapers-iran/blob/main/chart6.jpg" height="300">
     <br>
  </div>
 
-| خبرگزاری / روزنامه                                  | زمینه                    | توییتر                                                                      | تلگرام                                                           | اینستاگرام                                                |
-|-----------------------------------------------------|--------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------|
-| [روزنامه شرق](https://sharghdaily.com/)        | اجتماعی، سیاسی، فرهنگی   | :large_blue_circle: [sharghdaily](https://twitter.com/sharghdaily)         |  :arrow_up_small: [SharghDaily](https://t.me/SharghDaily)                                                                | x                                                         |
-| [روزنامه همشهری](https://www.hamshahrionline.ir/)  | اجتماعی، اقتصادی، فرهنگی | :large_blue_circle: [hamshahrinews](https://twitter.com/hamshahrinews)     | x                                                                | x                                                         |
-| [روزنامه ایران](https://www.irannewspaper.ir/)     | اجتماعی، سیاسی، فرهنگی   | :large_blue_circle: [IranNewspaper](https://twitter.com/IranNewspaper)     | x                                                                | x                                                         |
-| [خبرگزاری تسنیم](https://www.tasnimnews.com/)      | سیاسی، فرهنگی            | :large_blue_circle: [Tasnimnews_Fa](https://twitter.com/Tasnimnews_Fa)     | :arrow_up_small: [Tasnimnews](https://t.me/Tasnimnews)           | x                                                         |
-| [خبرگزاری خبرآنلاین](https://www.khabaronline.ir/) | اقتصادی، سیاسی           | :large_blue_circle: [khabaronlinee](https://twitter.com/khabaronlinee)     | :arrow_up_small: [khabaronline_ir](https://t.me/khabaronline_ir) | x                                                         |
-| [خبرگزاری ایسنا](https://www.isna.ir)              | سیاسی، فرهنگی            | :large_blue_circle: [isna_farsi](https://twitter.com/isna_farsi)           | :arrow_up_small: [isna94](https://t.me/isna94)                   | x |
-| [خبرگزاری فارس](http://farsnews.com/)              | فرهنگی                   | :large_blue_circle: [FarsNews_Agency](https://twitter.com/FarsNews_Agency) | :arrow_up_small: [farsna](https://t.me/farsna)                   | :red_circle: [fars_news](https://instagram.com/fars_news) |
-| [خبرگزاری ایلنا](https://www.ilna.news/)           | فرهنگی، اقتصادی، سیاسی   | :large_blue_circle: [ilnanews](https://twitter.com/ilnanews)               | x                                                                | x                                                         |
+| **خبرگزاری / روزنامه**                             | **زمینه**                | **توییتر**                                                             | **تلگرام**                                             | **اینستاگرام**                                                         |
+|:--------------------------------------------------:|:------------------------:|:----------------------------------------------------------------------:|:------------------------------------------------------:|:----------------------------------------------------------------------:|
+| [روزنامه شرق](https://sharghdaily.com/)            | اجتماعی، سیاسی، فرهنگی   | :large_blue_circle: [sharghdaily](https://twitter.com/sharghdaily)     | x                                                      | :red_circle: [sharghdaily1](https://www.instagram.com/sharghdaily1)    |
+| [روزنامه ایران](https://www.irannewspaper.ir/)     | اجتماعی، سیاسی، فرهنگی   | :large_blue_circle: [IranNewspaper](https://twitter.com/IranNewspaper) | x                                                      | x                                                                      |
+| [خبرگزاری تسنیم](https://www.tasnimnews.com/)      | سیاسی، فرهنگی            | x                                                                      | :arrow_up_small: [Tasnimnews](https://t.me/Tasnimnews) | :red_circle: [tasnimnews_fa](https://www.instagram.com/tasnimnews_fa/) |
+| [خبرگزاری ایسنا](https://www.isna.ir)              | سیاسی، فرهنگی            | :large_blue_circle: [isna_farsi](https://twitter.com/isna_farsi)       | :arrow_up_small: [isna94](https://t.me/isna94)         | x                                                                      |
+| [خبرگزاری فارس](http://farsnews.com/)              | فرهنگی                   | x                                                                      | :arrow_up_small: [farsna](https://t.me/farsna)         | :red_circle: [fars_news](https://instagram.com/fars_news)              |
 
 
 
