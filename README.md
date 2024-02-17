@@ -34,15 +34,15 @@
  <div align="center">
     نمودار مجوزها بر اساس نوع مجوز
     <br>
-  <img src="https://github.com/yousefebrahimi0/official-social-medias-news-agency-newspapers-iran/blob/main/chart4.jpg" height="300">
+  <img src="https://github.com/yousefebrahimi0/official-social-medias-news-agency-newspapers-iran/blob/main/chart4.png" height="300">
     <br>
     نمودار مجوزهای چاپی
     <br>
-  <img src="https://github.com/yousefebrahimi0/official-social-medias-news-agency-newspapers-iran/blob/main/chart5.jpg" height="300">
+  <img src="https://github.com/yousefebrahimi0/official-social-medias-news-agency-newspapers-iran/blob/main/chart5.png" height="300">
     <br>
    نمودار گستره توزیع رسانه‌های چاپی
     <br>
-  <img src="https://github.com/yousefebrahimi0/official-social-medias-news-agency-newspapers-iran/blob/main/chart6.jpg" height="300">
+  <img src="https://github.com/yousefebrahimi0/official-social-medias-news-agency-newspapers-iran/blob/main/chart6.png" height="300">
     <br>
  </div>
 
